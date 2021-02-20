@@ -7,3 +7,5 @@ Para la creación de esta aplicacion como ya se mencionó se hizo uso del framew
 realizacion de nuestro objetivo.
 
 La informacion se simuló en un archivo JSON a fin de la demostracion de usuarios en la tabla y al momento de editar un registro, la informacion seleccionado en elistado aparezca. Por otra parte, para poder compilar el programa si se requiere, es necesario importar los modulos de node, esto debido a que son muy pesados para cargar en el archivo y por lo tanto GitHub no permite adjuntar todo el archivo correspondiente, ademas de que el archivo se subió mediante comandos de git desde visual studio code y por lo tanto algunos modulos de node no los importa.
+
+La parte del codigo dentro del proyecto donde se encuentra las paginas de crear usuario, editar usuario y listado de usuarios se encuentrá en app/src/pages.
